@@ -14,3 +14,5 @@ There will be save files as well as a default username which are remnants from m
 **• Jumpscares**
 **• Story spoilers if read in full**
 **Player discretion is advised.**
+
+This mod was made possible by bronya_rand's DDLC Mod Template 2.0: https://github.com/Bronya-Rand/DDLCModTemplate2.0
